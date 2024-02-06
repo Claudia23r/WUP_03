@@ -29,6 +29,24 @@ $H_0$: There is no difference in the average amount of alcohol consumed per week
 
 $H_A$: here is a difference in the average amount of alcohol consumed per week based on seating row.
 
+
+# Methods
+
+
+We are trying to predict alcohol consumption based on row alcohol ~ seat
+
+
+alcohol is numerical 
+seat is a categorical variable 
+
+
+so we use the numerical~cat helper file
+
+
+
+
+
+
 ## Now with ggplot - first select the basic data
 
 ```{r}
